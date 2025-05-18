@@ -1,11 +1,11 @@
 # 🛡️ Portfolio
 
-Welcome to my Cybersecurity Portfolio!  
+Welcome to my Cybersecurity Portfolio! 
 Here you'll find all the projects I’ve worked on since May 2025 💻
 
 ## 🚀 Projects
-- 🔍 [Port Scanner](scanner.py) – scans open ports on a target IP
-- 🧪 [USB Logger] (usbdetector.py) USB Logger (will be updated soon!)
+- 🔍 [Port Scanner](Port%20Scanner/scanner.py) – scans open ports on a target IP
+- 🧪 [USB Logger](USB%20Scanner/usbdetector.py) USB Logger (update soon!)
 - 🔐 Firewall Rules (coming soon)
 
 ## 🧠 Skills
